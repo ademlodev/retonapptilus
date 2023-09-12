@@ -1,4 +1,4 @@
-# Reto para la emrpesa Napptilus
+# Reto para la empresa Napptilus
 
 ## Requisitos
 
